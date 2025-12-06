@@ -2,10 +2,7 @@
   "name": "physiowell",
   "version": "1.0.0",
   "description": "PhysioWell - Professional Physiotherapy Services Website",
-  "scripts": {
-    "dev": "npx serve .",
-    "build": "echo 'No build step required for static site'"
-  },
+  "scripts": {},
   "keywords": [
     "physiotherapy",
     "healthcare",
@@ -14,4 +11,3 @@
   "author": "",
   "license": "MIT"
 }
-
